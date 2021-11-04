@@ -1,0 +1,19 @@
+.text{
+    font-size: 12px;
+    text-align: center;
+    alignment-baseline: middle;
+    text-anchor: middle;
+    dominant-baseline: middle;
+    transform: rotate(90deg);
+    -webkit-transform:rotate(90deg);
+    fill: #808080;    
+}
+.large{
+    font-size: 14px;
+    text-align: center;
+}
+pie-chart{
+    transform: rotate(-90deg);
+    -webkit-transform:rotate(-90deg);
+    display: inline-flex;
+}
